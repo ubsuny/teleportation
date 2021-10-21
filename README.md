@@ -1,2 +1,24 @@
 # QUANTUM TELEPORTATION
-This is the project for Midterm (Fall 2021) . 
+This project will give a basic idea of what is  Quantum Teleportation and how does it work. We will also use IBM Qiskit to simulate the teleportatio process and than run it in real quantum computer to comare the result with our predcition (simulation) in GUI. We will also use Jupyter Notebook to repeat the process wihtout GUI. 
+
+
+
+# Method 
+ In this project, we will use Quantum computer to teleport the state of one quit from one persons qubit to another without moving the qubit. 
+ Based on the theories, we will implement the idea of EPR / Bell pairs to create entangled states of qubits and then applying protocol we would be able to re create the state . We will use IBM Qiskit for simulation and run it in real Quantum Computer. We will also use Jupyter Notebok to do the same without GUI.  This Project will be saved in a github repository (github/teleportation) for future change /updates ) 
+
+
+#Refference 
+In this project , we are going to use  resources and codes from the following 
+
+1. IBM Qisskit 
+https://qiskit.org/textbook/ch-algorithms/teleportation.html
+
+2. M. Nielsen and I. Chuang, Quantum Computation and Quantum Information, Cambridge Series on Information and the Natural Sciences (Cambridge University Press, Cambridge, 2000).
+
+3. Eleanor Rieffel and Wolfgang Polak, Quantum Computing: a Gentle Introduction (The MIT Press Cambridge England, Massachusetts, 2011).
+
+4. https://www.rug.nl/research/zernike/education/topmasternanoscience/maaike.pdf
+
+#Outlook 
+
