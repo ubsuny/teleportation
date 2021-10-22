@@ -31,3 +31,4 @@ https://qiskit.org/textbook/ch-algorithms/teleportation.html \
 
 #Outlook 
 >Docstring were implemented where new function was defined.
+> Linting was completed with pycodestyle module.
