@@ -1,5 +1,5 @@
 # QUANTUM TELEPORTATION
-This project will give a basic idea of what is  Quantum Teleportation and how does it work. We will also use IBM Qiskit to simulate the teleportatio process and than run it in real quantum computer to comare the result with our predcition (simulation) in GUI. We will also use Jupyter Notebook to repeat the process wihtout GUI. We will use the algorithm , codes or examples  mostly from IBM Qistkit\Teleportation  for demonstration. Other sources are mentioned in refference section. 
+This project will give a basic idea of what is  Quantum Teleportation and how does it work. We will also use IBM Qiskit to simulate the teleportatio process and than run it in real quantum computer to comare the result with our predcition (simulation) in GUI. We will also use Jupyter Notebook to repeat the process wihtout GUI. We will use the algorithm(Quantum circuit) , codes or examples  mostly from IBM Qistkit\Teleportation  for demonstration. Other sources are mentioned in refference section. 
 
 
 # Method 
@@ -8,8 +8,8 @@ This project will give a basic idea of what is  Quantum Teleportation and how do
 
 # Prrocess:
 In Jupyter Notebook we will do the following:\
-> Using Qiskit  we will  create circuit using Quantum Teleportation Protocol.\
-> In qiskit Aer simulator we will run the simulation .\
+> Using Qiskit  we will  design Quantum Algorithm (circuit) using Quantum Teleportation Protocol.\
+> In qiskit Aer simulator we will run the simulation and test our circuit.\
 > Finally we will execute our Teleportation Circuit in  Quantum Computer using qiskit.
 
 
